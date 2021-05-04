@@ -7,7 +7,7 @@ If an OS still supported from Microsoft, please go to Microsoft official website
 
 ### How can I get the ISOs?
 1. Go to the [release pages](https://github.com/cheny0y0/windows-iso-source/releases) to get them.
-2. [Search them], and you can specify types and versions.
+2. [Search them](https://cheny0y0.github.io/windows-iso-source/search.html), and you can specify types and versions.
 
 ### Are the ISOs free?
 Yes. But you need to active Windows by yourself.
