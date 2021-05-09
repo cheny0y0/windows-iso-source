@@ -11,3 +11,6 @@ If an OS still supported from Microsoft, please go to Microsoft official website
 
 ### Are the ISOs free?
 Yes. But you need to active Windows by yourself.
+
+### Are there beta OSes' ISOs?
+Em… I don't upload beta OSes' ISOs, but you can open an issue and describe the OS(es)' ISO(s), you'll be a collaborator and upload the ISO(s) to specify release page(s)
